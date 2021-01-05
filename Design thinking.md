@@ -55,4 +55,4 @@ Where will you commit time in your schedule on a recurring basis to monitor your
 Why are your data modeling results reducing in quality in production?<br/>
 How do you communicate data modeling results to your product managers, data engineers, and software engineers and with what frequency?<br/>
 
-Source: https://medium.com/towards-artificial-intelligence/the-story-of-how-natural-language-processing-is-changing-financial-services-in-2020-8709cca3a100
+Source: https://towardsdatascience.com/data-science-design-thinking-658a4f293a1c
